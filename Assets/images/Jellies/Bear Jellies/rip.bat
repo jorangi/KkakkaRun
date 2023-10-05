@@ -1,0 +1,4 @@
+python unpacker.py bear_jelly_z75
+python unpacker.py bear_jelly_z76
+python unpacker.py jelly_bearrainbow_fly_z75
+python unpacker.py jelly_bearrainbow_fly_z76
